@@ -1,2 +1,1 @@
 # Coding-Bat
-Daily Progress
